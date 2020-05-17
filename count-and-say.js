@@ -17,6 +17,5 @@ const countAndSay = n => {
       }
       resultVal+= occurance+currentNum.charAt(currentNum.length-1);
       return resultVal;
-    }
-  
+    }  
   }
