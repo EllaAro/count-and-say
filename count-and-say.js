@@ -1,4 +1,4 @@
-const countAndSay = (n) => {
+const countAndSay = n => {
     let currentNum, i, occurance;
     let resultVal = '';
     
